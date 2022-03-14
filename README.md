@@ -1,5 +1,5 @@
 # 구현 기능!
-<img width="50%" src="https://user-images.githubusercontent.com/87990290/158194989-dda98dab-42c7-462e-a14b-218b70e12cf0.gif"/>
+<img width="30%" src="https://user-images.githubusercontent.com/87990290/158194989-dda98dab-42c7-462e-a14b-218b70e12cf0.gif"/>
 
 <br>
 <li> WEB과 처음 리스트의 title을 클릭하면 각각 title에 대한 description이 하단에 도출됨
