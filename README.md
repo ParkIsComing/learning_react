@@ -1,5 +1,7 @@
 # 구현 기능!
-![learnig_react_simul](https://user-images.githubusercontent.com/87990290/158176530-5f9b27aa-742d-465b-8a66-9e2d27b045f6.gif)
+<img width="80%" src="https://user-images.githubusercontent.com/87990290/158176530-5f9b27aa-742d-465b-8a66-9e2d27b045f6.gif"/>
+
+출처: https://ndb796.tistory.com/557 [안경잡이개발자]
 <br>
 -WEB과 처음 리스트의 title을 클릭하면 각각 title에 대한 description이 하단에 도출됨
 -두번째 리스트를 사용해 처음 리스트에 조작을 가할 수 있음
