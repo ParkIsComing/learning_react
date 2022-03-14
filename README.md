@@ -6,7 +6,7 @@
 <li> 두번째 리스트를 사용해 처음 리스트에 조작을 가할 수 있음
   <li> create: 처음 리스트에 title과 그에 대한 description 추가
   <li> update: 처음 리스트의 특정 title을 클릭한 뒤 update를 누르면 해당 title 또는 description 변경 가능
-  <li> delete: 처음 리스트의 특정 title을 클릭한 뒤 delete를 누르면 삭제를 확인하는 문구가 뜨고 완료하면 'delete'라는 alert 메시지가 뜸
+  <li> delete: 처음 리스트의 특정 title을 클릭한 뒤 delete를 누르면 정말 삭제할 것인지 확인하는 문구('Seriously?')가 뜨고 완료하면 이를 알리는 alert 메시지('deleted')가 뜸
 
 
 # 참고한 강의
