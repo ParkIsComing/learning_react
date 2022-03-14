@@ -55,7 +55,7 @@ class App extends Component {
           //원본데이터를 바꾸지 않으면서 state에 추가하는 방법 
           // var _contents = this.state.contents.concat({id: this.max_content_id, title:_title, desc:_desc})
           var _contents = Array.from(this.state.contents);
-          _contents.push({id: this.max_content_id, title:_title, dess: _desc});
+          _contents.push({id: this.max_content_id, title:_title, desc: _desc});
           this.setState(
             {contents: _contents,
              mode: 'read',
